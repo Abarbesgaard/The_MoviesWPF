@@ -13,4 +13,5 @@ namespace The_MoviesWPF.Model
         public string Genre{ get; set; }
     }
     
+
 }
